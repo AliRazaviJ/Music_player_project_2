@@ -7,7 +7,7 @@ public static void main(String[] args) throws UnsupportedAudioFileException, Lin
     SimpleAudioPlayer simpleAudioPlayer=new SimpleAudioPlayer();
     try
     {
-       simpleAudioPlayer.filePath = "Ebi - Ki Ashkato Pak Mikone [128].au";
+       simpleAudioPlayer.filePath = "music name.au";
 //        SimpleAudioPlayer audioPlayer =
 //                new SimpleAudioPlayer();
 
