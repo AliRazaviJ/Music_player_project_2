@@ -55,3 +55,9 @@ Java File I/O for handling MP3 files.
 📝 License
 
 This project is open-source and available under the MIT License. See the LICENSE file for more details.
+
+## 🙌 Author
+
+Created by Ali Razavi
+🔗 GitHub: [AliRazaviJ](https://github.com/AliRazaviJ)
+
